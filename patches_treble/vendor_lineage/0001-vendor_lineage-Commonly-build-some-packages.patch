@@ -22,6 +22,7 @@ index f7eecd84..51e1e022 100644
  PRODUCT_PACKAGES += \
 +    Contacts \
 +    DeskClock \
++    Aperture \
      Eleven \
      Etar \
 +    Gallery2 \
